@@ -1,0 +1,33 @@
+/* 
+font-family: 'Dosis', sans-serif;
+font-family: 'Hind', sans-serif;
+font-family: 'Jura', sans-serif;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Source Code Pro', monospace;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Work Sans', sans-serif;
+font-family: 'Salsa', cursive;
+ */
+
+body {
+  background-color: #5a7783;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  font-size: 3.75em;
+  font-family: 'Salsa', cursive;
+}
+
+.blue-text {
+  color: #DA4167;
+}
+
+.card {
+  border: 1px solid green;
+}
